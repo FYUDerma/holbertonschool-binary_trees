@@ -53,3 +53,6 @@ dkms.conf
 
 # Main.c
 *-main.c
+
+#.vscode file
+.vscode
