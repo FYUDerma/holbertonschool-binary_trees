@@ -56,3 +56,6 @@ dkms.conf
 
 #.vscode file
 .vscode
+
+#Project Compiled file
+*-node
